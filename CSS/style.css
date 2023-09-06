@@ -9,9 +9,16 @@ h1{
     font-family: Oswald;
 }
 
-h3{
+h2{
     font-size: 22pt;
     font-family: Oswald;
+    margin-left: 5px;
+}
+
+h3{
+    font-size: 16pt;
+    font-family: Oswald;
+    margin-top: 15px;
     margin-left: 5px;
 }
 
@@ -35,4 +42,10 @@ li{
 
 figure{
     margin-left: 10px;
+}
+
+figcaption{
+    margin-left: 10px;
+    display:block;
+    width: 500px;
 }
