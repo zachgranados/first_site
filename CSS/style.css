@@ -16,10 +16,15 @@ h2{
 }
 
 h3{
-    font-size: 16pt;
+    font-size: 22pt;
     font-family: Oswald;
     margin-top: 15px;
     margin-left: 5px;
+}
+
+h4{
+    font-family: Oswald;
+    margin-top: 5px;
 }
 
 p{
@@ -32,6 +37,8 @@ img {
    padding: 10px;
    margin: 20px;
    border-top-right-radius: 30px;
+   margin-left: auto;
+   margin-right: auto;
 
 }
 
@@ -42,10 +49,16 @@ li{
 
 figure{
     margin-left: 10px;
+    align-items: center;
+    align-self: center;
 }
 
 figcaption{
     margin-left: 10px;
     display:block;
     width: 500px;
+}
+
+ul{
+    list-style: bullet;
 }
